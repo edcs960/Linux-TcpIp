@@ -1,0 +1,6 @@
+total 0
+-rw-rw-r-- 1 kimsihyun kimsihyun 0  5월 12 11:44 a
+-rw-rw-r-- 1 kimsihyun kimsihyun 0  5월 12 11:44 lsoutput.txt
+  PID TTY          TIME CMD
+ 2353 pts/4    00:00:00 bash
+ 2377 pts/4    00:00:00 ps

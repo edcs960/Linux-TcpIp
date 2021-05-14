@@ -1,0 +1,7 @@
+#와일드카드와 for문을 사용
+#!/bin/sh
+
+for file in $(ls f*.sh); do
+	lqr $file
+done
+exit 0

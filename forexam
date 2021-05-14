@@ -1,0 +1,15 @@
+#!/bin/sh
+
+for foo in bar fud 43
+do
+	echo $foo
+done
+
+echo 따음표 사용했을 때
+
+for foo in "bar fud 43"
+do
+	echo $foo
+done
+
+exit 0
