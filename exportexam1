@@ -1,0 +1,6 @@
+#!/bin/sh
+
+foo="The first meta-syntactic variable"
+export bar="The second meta-syntactic variable"
+
+exportexam2 # 이 부분에서 파일 권한 거부가 일어남..
